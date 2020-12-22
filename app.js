@@ -215,7 +215,9 @@ app.locals.authProviders = {
   oauth2ProviderName: config.oauth2.providerName,
   openID: config.isOpenIDEnable,
   email: config.isEmailEnable,
-  allowEmailRegister: config.allowEmailRegister
+  allowEmailRegister: config.allowEmailRegister,
+  pnsAuth: true,
+  allowPnsRegister: config.allowPnsRegister
 }
 app.locals.versionInfo = {
   latest: true,
