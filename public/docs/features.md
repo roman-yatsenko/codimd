@@ -690,7 +690,8 @@ stop
 > Детальніше про **часові графіки** можна прочитати [тут](http://mermaid-js.github.io/mermaid).
 > Детальніше про **ноти** можна прочитати [тут](http://abcnotation.com/learn).
 > Детальніше про **plantuml** можна прочитати [тут](http://plantuml.com/index).
-> Детальніше проt **vega** можна прочитати [тут](https://vega.github.io/vega-lite/docs).
+> Детальніше про **vega** можна прочитати [тут](https://vega.github.io/vega-lite/docs).
+> Детальніше про **fretboard** можна прочитати [тут](https://hackmd.io/c/codimd-documentation/%2F%40codimd%2Ffretboard-syntax).
 
 Область повідомлень:
 ---
